@@ -1,3 +1,4 @@
+//Третье задание
 import Foundation
 import Cocoa
 
