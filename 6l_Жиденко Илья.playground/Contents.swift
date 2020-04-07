@@ -1,5 +1,5 @@
 import Foundation
-
+//6 задание
 struct Journal {
     var name: String
     var mark: Int
