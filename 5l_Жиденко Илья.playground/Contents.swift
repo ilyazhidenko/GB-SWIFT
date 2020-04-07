@@ -1,5 +1,5 @@
 import Foundation
-
+// конкретных функций для программы не смог придумать
 protocol fullNameOfObject {
     var fullName : String {get}
 }
